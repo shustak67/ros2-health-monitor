@@ -109,7 +109,7 @@ The system is split into three modular nodes:
 * One node handles **alert logging**
 * One node provides **simulated status input**
 
-This follows ROS 2 best practices and makes the system extensible (e.g., replacing the simulator with a real CAN interface).
+This follows ROS 2 best practices.
 
 ---
 
