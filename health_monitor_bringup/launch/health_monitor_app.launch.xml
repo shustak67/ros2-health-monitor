@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="health_monitor" exec="can_ros2_status_node" />
+    <node pkg="health_monitor" exec="health_analyzer_node" />
+    <node pkg="health_monitor" exec="alert_manager_node" />
+</launch>
