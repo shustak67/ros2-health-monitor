@@ -129,5 +129,3 @@ When running the launch file, the system produces logs such as:
 
 **Avishai Shustak**
 B.Sc. Electrical & Electronics Engineering, Tel Aviv University
-
-```
